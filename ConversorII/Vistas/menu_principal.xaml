@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConversorII.Vistas.menu_principal">
+    <StackLayout BackgroundColor="#EECAC2" Spacing="20">
+        <Label Text="Conversor" FontSize="Large" TextColor="#000" FontAttributes="Bold" Margin="0,20,0,0" HorizontalOptions="Center"/>
+        <Frame VerticalOptions="FillAndExpand" Margin="40,20" CornerRadius="20" HasShadow="True">
+            <StackLayout VerticalOptions="Center">
+                <Image Source="https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg" />
+                <Label Text="(CM) a (M)" FontAttributes="Bold" FontSize="30" HorizontalOptions="Center"/>
+                <Button Text="INICIAR" TextTransform="None" BackgroundColor="#FDE080" CornerRadius="10" FontSize="Medium" FontAttributes="Bold" 
+                        x:Name="boton_iniciar" Clicked="boton_iniciar_Clicked" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

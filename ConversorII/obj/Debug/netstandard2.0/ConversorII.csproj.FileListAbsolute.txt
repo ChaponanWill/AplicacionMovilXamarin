@@ -1,0 +1,16 @@
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\bin\Debug\netstandard2.0\ConversorII.deps.json
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\bin\Debug\netstandard2.0\ConversorII.dll
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\bin\Debug\netstandard2.0\ref\ConversorII.dll
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\bin\Debug\netstandard2.0\ConversorII.pdb
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.csproj.AssemblyReference.cache
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.AssemblyInfoInputs.cache
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.AssemblyInfo.cs
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.csproj.CoreCompileInputs.cache
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\XamlC.stamp
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.dll
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\refint\ConversorII.dll
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\ConversorII.pdb
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\Vistas\menu_principal.xaml.g.cs
+D:\2.CURSOS DE SENATI\QUINTO CICLO\Aplicaciones Moviles\ConversorII\ConversorII\obj\Debug\netstandard2.0\Vistas\Convertir.xaml.g.cs

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B38C42-513C-4FFA-9B6E-5E98FA476420}|ConversorII\\ConversorII.csproj|d:\\2.cursos de senati\\quinto ciclo\\aplicaciones moviles\\conversorii\\conversorii\\vistas\\convertir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B38C42-513C-4FFA-9B6E-5E98FA476420}|ConversorII\\ConversorII.csproj|solutionrelative:conversorii\\vistas\\convertir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B38C42-513C-4FFA-9B6E-5E98FA476420}|ConversorII\\ConversorII.csproj|D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\conversorii\\vistas\\convertir.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{E0B38C42-513C-4FFA-9B6E-5E98FA476420}|ConversorII\\ConversorII.csproj|solutionrelative:conversorii\\vistas\\convertir.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Convertir.xaml.cs",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\ConversorII\\Vistas\\Convertir.xaml.cs",
+              "RelativeDocumentMoniker": "ConversorII\\Vistas\\Convertir.xaml.cs",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\ConversorII\\Vistas\\Convertir.xaml.cs",
+              "RelativeToolTip": "ConversorII\\Vistas\\Convertir.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:45:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Convertir.xaml",
+              "DocumentMoniker": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\ConversorII\\Vistas\\Convertir.xaml",
+              "RelativeDocumentMoniker": "ConversorII\\Vistas\\Convertir.xaml",
+              "ToolTip": "D:\\2.CURSOS DE SENATI\\QUINTO CICLO\\Aplicaciones Moviles\\ConversorII\\ConversorII\\Vistas\\Convertir.xaml",
+              "RelativeToolTip": "ConversorII\\Vistas\\Convertir.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T07:45:23.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
